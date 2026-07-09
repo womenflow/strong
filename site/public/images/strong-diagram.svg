@@ -1,0 +1,41 @@
+<svg viewBox="0 0 720 500" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" role="img" aria-label="15-Minute Living-Room Workout routine map">
+  <rect x="0" y="0" width="720" height="500" fill="#ffffff"/>
+  <text x="36" y="44" font-size="24" font-weight="700" fill="#1a1a1a">The 15-Minute Living-Room Workout</text>
+  <text x="36" y="68" font-size="14" fill="#6b7280">No equipment · full body · before your coffee gets cold</text>
+  <line x1="54" y1="98" x2="54" y2="452" stroke="#d7e6dc" stroke-width="3"/>
+  <circle cx="54" cy="120" r="9" fill="#1f6f43"/>
+  <rect x="80" y="98" width="604" height="66" rx="10" fill="#f2f8f4" stroke="#d7e6dc"/>
+  <rect x="92" y="112" width="70" height="24" rx="12" fill="#1f6f43"/>
+  <text x="127" y="129" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">2 min</text>
+  <text x="176" y="124" font-size="16" font-weight="700" fill="#1a1a1a">Warm-Up</text>
+  <text x="176" y="146" font-size="13" fill="#4b5563">March in place · arm circles · torso twists · side bends</text>
+  <circle cx="54" cy="196" r="9" fill="#1f6f43"/>
+  <rect x="80" y="176" width="604" height="196" rx="10" fill="#f2f8f4" stroke="#d7e6dc"/>
+  <rect x="92" y="190" width="70" height="24" rx="12" fill="#1f6f43"/>
+  <text x="127" y="207" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">10 min</text>
+  <text x="176" y="202" font-size="16" font-weight="700" fill="#1a1a1a">Main Circuit</text>
+  <text x="176" y="224" font-size="13" fill="#4b5563">40 sec work · 20 sec rest · repeat the circuit ×2</text>
+  <g font-size="13" fill="#1a1a1a">
+    <rect x="100" y="238" width="270" height="30" rx="8" fill="#ffffff" stroke="#cfe3d6"/>
+    <circle cx="118" cy="253" r="9" fill="#1f6f43"/><text x="118" y="257" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+    <text x="136" y="257">Squats</text>
+    <rect x="394" y="238" width="270" height="30" rx="8" fill="#ffffff" stroke="#cfe3d6"/>
+    <circle cx="412" cy="253" r="9" fill="#1f6f43"/><text x="412" y="257" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+    <text x="430" y="257">Incline Push-Ups</text>
+    <rect x="100" y="276" width="270" height="30" rx="8" fill="#ffffff" stroke="#cfe3d6"/>
+    <circle cx="118" cy="291" r="9" fill="#1f6f43"/><text x="118" y="295" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+    <text x="136" y="295">Reverse Lunges</text>
+    <rect x="394" y="276" width="270" height="30" rx="8" fill="#ffffff" stroke="#cfe3d6"/>
+    <circle cx="412" cy="291" r="9" fill="#1f6f43"/><text x="412" y="295" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">4</text>
+    <text x="430" y="295">Glute Bridges</text>
+    <rect x="100" y="314" width="564" height="30" rx="8" fill="#ffffff" stroke="#cfe3d6"/>
+    <circle cx="118" cy="329" r="9" fill="#1f6f43"/><text x="118" y="333" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">5</text>
+    <text x="136" y="333">Standing Knee-to-Elbow</text>
+  </g>
+  <circle cx="54" cy="404" r="9" fill="#1f6f43"/>
+  <rect x="80" y="384" width="604" height="66" rx="10" fill="#f2f8f4" stroke="#d7e6dc"/>
+  <rect x="92" y="398" width="70" height="24" rx="12" fill="#1f6f43"/>
+  <text x="127" y="415" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">3 min</text>
+  <text x="176" y="410" font-size="16" font-weight="700" fill="#1a1a1a">Cool-Down</text>
+  <text x="176" y="432" font-size="13" fill="#4b5563">Forward fold · chest stretch · quad stretch · deep breaths</text>
+</svg>

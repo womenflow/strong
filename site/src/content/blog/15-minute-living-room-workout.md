@@ -16,6 +16,10 @@ So make your coffee, let it sit, and let's beat the clock. No equipment, no floo
 ## Why 15 Minutes Actually Works
 Short workouts get unfairly dismissed. But moving with focus for fifteen minutes beats "I'll do an hour later" — which, let's be honest, becomes never. **Consistency crushes intensity** over time. A daily fifteen wins the year.
 
+Here's the whole routine at a glance — warm up, circuit, cool down:
+
+![The 15-minute workout routine at a glance](/images/strong-diagram.svg)
+
 ## The Warm-Up (2 minutes)
 Don't skip this. Cold muscles are cranky muscles.
 - **March in place** — 30 seconds

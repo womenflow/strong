@@ -1,9 +1,9 @@
 ---
 title: "The 15-Minute Living-Room Workout You Can Do Before Your Coffee Gets Cold"
 description: "A no-equipment, 15-minute full-body living-room workout you can finish before your morning coffee cools down. Beginner-friendly and genuinely doable."
-pubDate: 2026-07-10T08:00:00Z
+pubDate: 2026-07-09T22:12:36Z
 tags: ["home workout", "no equipment", "quick workout", "fitness"]
-draft: true
+draft: false
 image: "/images/strong-s1.png"
 ---
 
